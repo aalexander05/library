@@ -15,8 +15,6 @@ declare module 'vue' {
     ChooseRole: typeof import('./src/components/ChooseRole.vue')['default']
     copy: typeof import('./src/components/Login copy.vue')['default']
     CustomInput: typeof import('./src/components/CustomInput.vue')['default']
-    JobEdit: typeof import('./src/components/JobEdit.vue')['default']
-    JobView: typeof import('./src/components/JobView.vue')['default']
     Login: typeof import('./src/components/Login.vue')['default']
     NavigationBar: typeof import('./src/components/NavigationBar.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']

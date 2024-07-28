@@ -5,7 +5,7 @@ import { state } from "@/config/signInConfig";
 import Books from "@/components/Books.vue";
 import About from "@/components/About.vue";
 import BookEdit from "@/components/BookEdit.vue";
-import JobView from "@/components/BookView.vue";
+import BookView from "@/components/BookView.vue";
 import Login from "@/components/Login.vue";
 import SignUp from "@/components/SignUp.vue";
 import ChooleRole from "@/components/ChooseRole.vue"
@@ -42,7 +42,7 @@ const routes = [
   {
     path: "/book/edit/:id?",
     name: "Book Edit",
-    alias: "/job/edit/:id",
+    alias: "/book/edit/:id",
     component: BookEdit,
     meta: {
       requiresAuth: true,
@@ -50,8 +50,8 @@ const routes = [
   },
   {
     path: "/book/view/:id?",
-    name: "Job View",
-    component: JobView,
+    name: "Book View",
+    component: BookView,
     meta: {
       requiresAuth: true,
     },

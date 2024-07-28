@@ -3,47 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi\\data\\datamanagers\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\data\\datamanagers\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi\\controllers\\checkoutbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\controllers\\checkoutbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi\\data\\datamanagers\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\data\\datamanagers\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D9A96AD-3AB8-44A5-AC09-2DFAEE92D68F}|LibraryApi.Test\\LibraryApi.Test.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi.test\\checkoutbookcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D9A96AD-3AB8-44A5-AC09-2DFAEE92D68F}|LibraryApi.Test\\LibraryApi.Test.csproj|solutionrelative:libraryapi.test\\checkoutbookcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Library/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi\\automapperprofiles\\allprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\automapperprofiles\\allprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi\\dtos\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\dtos\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Migrations\\20240728014555_newBooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryApi\\Migrations\\20240728014555_newBooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A312C90-94B5-4125-AABD-7BB2907DFADB}|LibraryApi\\LibraryApi.csproj|solutionrelative:libraryapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D9A96AD-3AB8-44A5-AC09-2DFAEE92D68F}|LibraryApi.Test\\LibraryApi.Test.csproj|c:\\users\\aalex\\source\\repos\\library\\libraryapi\\libraryapi.test\\mockusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9A96AD-3AB8-44A5-AC09-2DFAEE92D68F}|LibraryApi.Test\\LibraryApi.Test.csproj|solutionrelative:libraryapi.test\\mockusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,146 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBookManager.cs",
-              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Data\\DataManagers\\IBookManager.cs",
-              "RelativeDocumentMoniker": "LibraryApi\\Data\\DataManagers\\IBookManager.cs",
-              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Data\\DataManagers\\IBookManager.cs",
-              "RelativeToolTip": "LibraryApi\\Data\\DataManagers\\IBookManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T18:17:27.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BookManager.cs",
-              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Data\\DataManagers\\BookManager.cs",
-              "RelativeDocumentMoniker": "LibraryApi\\Data\\DataManagers\\BookManager.cs",
-              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Data\\DataManagers\\BookManager.cs",
-              "RelativeToolTip": "LibraryApi\\Data\\DataManagers\\BookManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T17:26:04.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dbo.Books [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Library/True/SqlTable/dbo.Books.sql",
-              "ToolTip": "dbo.Books [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-28T18:05:34.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CheckoutBookController.cs",
-              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\CheckoutBookController.cs",
-              "RelativeDocumentMoniker": "LibraryApi\\Controllers\\CheckoutBookController.cs",
-              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\CheckoutBookController.cs",
-              "RelativeToolTip": "LibraryApi\\Controllers\\CheckoutBookController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T18:01:24.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AllProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\AutoMapperProfiles\\AllProfiles.cs",
-              "RelativeDocumentMoniker": "LibraryApi\\AutoMapperProfiles\\AllProfiles.cs",
-              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\AutoMapperProfiles\\AllProfiles.cs",
-              "RelativeToolTip": "LibraryApi\\AutoMapperProfiles\\AllProfiles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T17:24:05.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "LibraryApi\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\BookController.cs",
-              "RelativeToolTip": "LibraryApi\\Controllers\\BookController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAArwEQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T03:32:04.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\DTOs\\Book.cs",
-              "RelativeDocumentMoniker": "LibraryApi\\DTOs\\Book.cs",
-              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\DTOs\\Book.cs",
-              "RelativeToolTip": "LibraryApi\\DTOs\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T02:01:12.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240728014555_newBooks.cs",
-              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Migrations\\20240728014555_newBooks.cs",
-              "RelativeDocumentMoniker": "LibraryApi\\Migrations\\20240728014555_newBooks.cs",
-              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Migrations\\20240728014555_newBooks.cs",
-              "RelativeToolTip": "LibraryApi\\Migrations\\20240728014555_newBooks.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T01:45:55.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CheckoutBookControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi.Test\\CheckoutBookControllerTests.cs",
-              "RelativeDocumentMoniker": "LibraryApi.Test\\CheckoutBookControllerTests.cs",
-              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi.Test\\CheckoutBookControllerTests.cs",
-              "RelativeToolTip": "LibraryApi.Test\\CheckoutBookControllerTests.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAowAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T01:43:04.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryApi\\Program.cs",
-              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Program.cs",
-              "RelativeToolTip": "LibraryApi\\Program.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAADYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T01:13:46.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "RoleController.cs",
               "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "LibraryApi\\Controllers\\RoleController.cs",
               "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\RoleController.cs",
               "RelativeToolTip": "LibraryApi\\Controllers\\RoleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T01:17:24.193Z",
+              "WhenOpened": "2024-07-28T19:29:06.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutBookController.cs",
+              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\CheckoutBookController.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Controllers\\CheckoutBookController.cs",
+              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\CheckoutBookController.cs",
+              "RelativeToolTip": "LibraryApi\\Controllers\\CheckoutBookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:29:04.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryApi\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:29:01.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutBookControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi.Test\\CheckoutBookControllerTests.cs",
+              "RelativeDocumentMoniker": "LibraryApi.Test\\CheckoutBookControllerTests.cs",
+              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi.Test\\CheckoutBookControllerTests.cs",
+              "RelativeToolTip": "LibraryApi.Test\\CheckoutBookControllerTests.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:28:17.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MockUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi.Test\\MockUserManager.cs",
+              "RelativeDocumentMoniker": "LibraryApi.Test\\MockUserManager.cs",
+              "ToolTip": "C:\\Users\\aalex\\source\\repos\\Library\\LibraryApi\\LibraryApi.Test\\MockUserManager.cs",
+              "RelativeToolTip": "LibraryApi.Test\\MockUserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:28:10.465Z",
               "EditorCaption": ""
             }
           ]
